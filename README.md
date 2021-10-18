@@ -11,7 +11,7 @@ LinkedList has following operation/functionality to it:
 The linked list uses fixed threads to execute add, delete Last, and search operation on the list.
 
 
-========================================================================================================
+============================================================================================
 
 feel free to add more functionality to it
 I would really appriceate if you give me some credit though, if you use this c program as a base.
